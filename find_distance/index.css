@@ -1,0 +1,41 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+ background:conic-gradient(from 90deg at 50% 50%, rgba(0, 209, 255, 1) 0%, rgba(238, 130, 238, 1) 64%, rgba(0, 209, 255, 1) 100%);
+ background-repeat: no-repeat ;
+ background-size: cover;
+ height: 100vh;
+}
+h1{
+	margin: 20px;
+}
+table{
+	margin: 20px;
+}
+table tr .tt{
+	display: table-row-group;
+    
+}
+
+
+#x1 ,#y1, #x2, #y2{
+	border: 3px solid red;
+	margin: 4px;
+	display: ;
+	padding: 5px;
+	width: 150px;
+
+}
+button{
+	margin-left: 50px;
+    
+}
+
+div{
+	margin-top:18px ;
+	margin-left: 50px;
+	border-bottom-style: dotted;
+	display: block;
+}
